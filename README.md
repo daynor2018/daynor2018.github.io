@@ -1,1 +1,1 @@
-practica de desarrollo de página web con el tema de UCATEC, orientación vocacional.
+practica de desarrollo de página web bajo el tema de cursos de inglés.
